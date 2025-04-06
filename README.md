@@ -1,1 +1,12 @@
-Estoy haciendo un curso de git
+# Proyecto Curso
+
+Este proyecto contiene el código fuente y recursos relacionados con el curso de desarrollo.
+
+## Características
+- Código organizado
+- Ejemplos prácticos
+- Documentación detallada
+
+[Visita el repositorio](https://github.com/Isidro-es/Curso)
+
+![Imagen del proyecto](https://via.placeholder.com/150)
